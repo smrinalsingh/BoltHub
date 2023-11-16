@@ -1,0 +1,15 @@
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/BoltHub
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/BoltHub.deps.json
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/BoltHub.runtimeconfig.json
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/BoltHub.dll
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/ref/BoltHub.dll
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/bin/Debug/net6.0/BoltHub.pdb
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.csproj.AssemblyReference.cache
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.AssemblyInfoInputs.cache
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.AssemblyInfo.cs
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.csproj.CoreCompileInputs.cache
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.dll
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/ref/BoltHub.dll
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.pdb
+/home/ubuntu/AllTrash/repos/BoltHub/BoltHub/obj/Debug/net6.0/BoltHub.genruntimeconfig.cache
